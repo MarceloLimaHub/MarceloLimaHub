@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4D0AB6FF&text=Marcelo%20Lima%20Alves&section=header&textBg=false&fontColor=f0f0f0&descAlignY=82&fontAlignY=37"/>
 # 💫 About Me:<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4D0AB6&random=false&width=435&lines=%3C+Hello+World+%2F%3E;My+name+is+%7B+Marcelo+Lima+%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4D0AB6&random=false&width=435&lines=%3C+Hello+World+%2F%3E;My+name+is+%7B+Marcelo+Lima+%7D)](https://git.io/typing-svg) 
 <br><br>Technology and software development enthusiast, <br>passionate about solving problems and creating innovative solutions. <br>I constantly seek to learn and improve my programming skills <br>and collaborate on challenging projects.
 
 
