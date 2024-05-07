@@ -17,9 +17,12 @@ Technology and software development enthusiast, <br>passionate about solving pro
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarceloLimaHub&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloLimaHub&theme=dracula&hide_border=false)<br/>
+
 <div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=MarceloLimaHub&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloLimaHub&theme=dracula&hide_border=false)<br/>
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloLimaHub&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
