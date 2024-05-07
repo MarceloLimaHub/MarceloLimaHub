@@ -21,7 +21,7 @@ Technology and software development enthusiast, <br>passionate about solving pro
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4D0AB6FF&text=Developer&section=footer&textBg=false&fontColor=f0f0f0&descAlignY=82&fontAlignY=37"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=4D0AB6FF&text=Developer&section=footer&textBg=false&fontColor=f0f0f0&descAlignY=82&fontAlignY=76&fontSize=48"/>
 
 
 
