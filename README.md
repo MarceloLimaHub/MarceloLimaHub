@@ -1,7 +1,5 @@
 # 💫 About Me:
-
-
-### <HelloWorld /><br>
+### <HelloWorld /> <br>
 I'm {Marcelo}<br><br>Technology and software development enthusiast, <br>passionate about solving problems and creating innovative solutions. <br>I constantly seek to learn and improve my programming skills <br>and collaborate on challenging projects.
 
 
